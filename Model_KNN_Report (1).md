@@ -1,3 +1,4 @@
+<img src="me.jpg" style="height:464px;margin-right:432px"/>
 # Évaluation du Modèle de Régression Logistique
 
 ## Reasoning
